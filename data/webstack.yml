@@ -3,20 +3,19 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
-    - title: Dribbble
+    - title: 中日桥官网
       logo: 
-      url: https://dribbble.com/
-      description: 全球UI设计师作品分享平台。
-    - title: Behance
-      url: https://behance.net/
-      description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-    - title: 二维码演示
-      qrcode: images/qrcodes/cli.png
+      url: https://cnjphashi.com.com/
+      description: 查看放假通知、查看各部门商品等
+    - title: 中日桥网盘
+      url: https://drive.cnjphashi.com/
+      description: 供业务员向客户分享大文件使用，文件无大小限制、无有效期限制
+    - title: Coulomb官网
       logo: 
-      url: https://cli.im/url
-      description: 二维码演示，手机扫一扫，也可以点击
-    - title: UI中国
-      url: https://www.ui.cn/
+      url: https://coulombag.com
+      description: 库仑书包官网网站
+    - title: 中日桥NAS网页地址
+      url: https://10-168-1-225.cnjphashi.direct.quickconnect.cn:5019/
       description: 图形交互与界面设计交流、作品展示、学习平台。
     - title: 站酷
       url: https://www.zcool.com.cn/
