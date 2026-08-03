@@ -13,9 +13,9 @@
     - title: 中日桥NAS网页地址
       url: https://10-168-1-225.cnjphashi.direct.quickconnect.cn:5019/
       description: 中日桥NAS网页版
-    - title: 便捷翻译工具DeepL下载地址
+    - title: 翻译工具DeepL下载
       url: https://www.deepl.com/zh/windows-app
-      description: 在Windows上选中需要翻译的文本，按住ctrl + c + c，即可获取翻译后的文本。
+      description: 
     
 
 - taxonomy: 公司官网
@@ -44,14 +44,14 @@
           description: 
         - title: Google Gemini
           url: https://gemini.google.com/
-          description: 对于需要网络搜索的问题，Gemini比ChatGPT更合适
-        - title: Gork
+          description: 
+        - title: Grok
           url: https://grok.com/
-          description: 非常适合用来生图
+          description: 
       
     - term: Windows工具
       links:
-        - title: 便捷翻译工具DeepL下载地址
+        - title: 翻译工具DeepL下载
           url: https://www.deepl.com/zh/windows-app
-          description: 在Windows上选中需要翻译的文本，按住ctrl + c + c，即可获取翻译后的文本。
+          description: 
 ---
