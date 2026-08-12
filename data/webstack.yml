@@ -1,57 +1,172 @@
 ---
-
 - taxonomy: 常用推荐
   icon: fa-star
-  links: 
-    - title: 中日桥官网
-      logo: 
-      url: https://cnjphashi.com.com/
-      description: 查看放假通知、查看各部门的在线商品目录
-    - title: 中日桥网盘
-      url: https://drive.cnjphashi.com/
-      description: 供业务员向客户分享大文件使用，上传的文件无大小、有效期限制
-    - title: 中日桥NAS网页地址
-      url: https://10-168-1-225.cnjphashi.direct.quickconnect.cn:5019/
-      description: 中日桥NAS网页版
-    - title: 翻译工具DeepL下载
-      url: https://www.deepl.com/zh/windows-app
-      description: 
-    
-
-- taxonomy: 公司官网
-  icon: fa-regular fa-newspaper
-  links: 
+  links:
     - title: 中日桥官网
       url: https://cnjphashi.com
       description: 查看放假通知、查看各部门的在线商品目录
-    - title: ZAKAKING官网
-      url: https://www.zakaking.com
-      description: 二部，ZAKAKING官网
+    - title: 中日桥网盘
+      url: https://drive.cnjphashi.com
+      description: 供业务员向客户分享大文件使用，上传文件无大小、有效期限制
+    - title: 中日桥NAS网页地址
+      url: https://10-168-1-225.cnjphashi.direct.quickconnect.cn:5019/
+      description: 中日桥NAS网页版
     - title: ZAKAKING SCM
       url: https://scm.zakaking.com
-      description: 二部，代理采购系统入口
-    - title: Coulomb官网
-      url: https://coulombag.com
-      description: 五部，库仑书包官方网站
-    
-- taxonomy: 常用工具
-  icon: fa-regular fa-lightbulb
-  list: 
-    - term: AI
-      links:
-        - title: chatGPT
-          url: https://chatgpt.com
-          description: 
-        - title: Google Gemini
-          url: https://gemini.google.com/
-          description: 
-        - title: Grok
-          url: https://grok.com/
-          description: 
-      
-    - term: Windows工具
-      links:
-        - title: 翻译工具DeepL下载
-          url: https://www.deepl.com/zh/windows-app
-          description: 
----
+      description: 代理采购系统入口
+    - title: 1688
+      url: https://www.1688.com/
+      description: 中国采购平台
+    - title: DHL
+      url: https://www.5idhl.com/#/
+      description: DHL物流查询
+    - title: 流通王
+      url: http://www.scorejp.com.cn/
+      description: 流通王物流查询
+    - title: HS CODE查询
+      url: https://www.hsbianma.com/
+      description: 商品海关编码查询
+
+- taxonomy: 一部网站
+  icon: fa-regular fa-building
+  links:
+    - title: CJHNAS - Synology NAS
+      url: https://10-168-1-225.cnjphashi.direct.quickconnect.cn:5019/
+      description: 公司NAS
+    - title: 腾讯文档
+      url: https://docs.qq.com/
+      description: 在线文档协作
+    - title: 坚果云官网
+      url: https://www.jianguoyun.com/
+      description: 文件同步工具
+    - title: 船舶定位
+      url: https://www.weiyun001.com/
+      description: 船舶定位查询
+    - title: 日本船运查询网站
+      url: https://www.toyoshingo.com/
+      description: 船运查询
+    - title: 货物追踪 - OCS
+      url: https://www.ocschina.com/Home/CargoTracking
+      description: OCS物流查询
+    - title: 中国国际贸易单一窗口
+      url: https://www.singlewindow.cn/
+      description: 产地证及贸易业务
+    - title: SEMRUSH关键词检测
+      url: https://dash.3ue.co/zh-Hans/
+      description: 关键词检测
+    - title: 企查查
+      url: https://www.qcc.com/
+      description: 企业信息查询
+    - title: 爱企查
+      url: https://aiqicha.baidu.com/
+      description: 企业信息查询
+    - title: Google趋势
+      url: https://trends.google.com/home
+      description: 市场趋势分析
+    - title: 日本商标专利查询
+      url: https://www.j-platpat.inpit.go.jp/
+      description: 日本专利商标查询
+    - title: 日本公司登记信息查询
+      url: https://www.houjin-bangou.nta.go.jp/
+      description: 日本法人信息查询
+    - title: SGS询价官网
+      url: https://member.sgsonline.com.cn/
+      description: SGS检测服务
+    - title: makerworld
+      url: https://makerworld.com.cn/zh
+      description: 3D模型社区
+    - title: SuperDelivery
+      url: https://www.superdelivery.com/
+      description: 日本批发平台
+    - title: NETSEA
+      url: https://www.netsea.jp/
+      description: 日本批发平台
+    - title: zakka.net
+      url: https://www.zakka.net/
+      description: 日本杂货网站
+    - title: 义乌购
+      url: https://www.yiwugo.com/
+      description: 义乌商品采购平台
+    - title: Chinagoods
+      url: https://www.chinagoods.com/
+      description: 义乌小商品城
+    - title: 广交会
+      url: https://www.cantonfair.org.cn/
+      description: 广交会官网
+
+- taxonomy: 三部网站
+  icon: fa-regular fa-truck
+  links:
+    - title: DHL
+      url: https://www.5idhl.com/#/
+      description: 国际物流
+    - title: 流通王
+      url: http://www.scorejp.com.cn/
+      description: 日本物流
+    - title: FEDEX
+      url: https://www.fedex.com/
+      description: FedEx物流
+    - title: 谷歌
+      url: https://www.google.com.hk/
+      description: 搜索工具
+    - title: 大文件传输网址
+      url: https://gigafile.nu/
+      description: 大文件传输
+    - title: ERP系统网址
+      url: http://cjh-ft:1025/cjhsys/
+      description: 内部ERP系统
+    - title: 三部网址
+      url: https://cnjphashi.com/wp-login.php
+      description: 部门后台入口
+
+- taxonomy: 五部网站
+  icon: fa-regular fa-shop
+  links:
+    - title: 日本亚马逊后台登录
+      url: https://sellercentral.amazon.co.jp/
+      description: Amazon日本卖家后台
+    - title: 亚马逊进仓预约
+      url: https://carriercentral.amazon.co.jp/
+      description: Amazon仓储预约
+    - title: 日亚品牌注册网站
+      url: https://brandregistry.amazon.co.jp/
+      description: Amazon品牌注册
+    - title: 综合物流追踪平台
+      url: http://www.17track.net/ja
+      description: 国际物流查询
+    - title: 日本佐川物流追踪
+      url: http://www.sagawa-exp.co.jp/
+      description: 佐川物流查询
+    - title: 日本黑猫物流追踪
+      url: https://toi.kuronekoyamato.co.jp/cgi-bin/tneko
+      description: 黑猫物流查询
+    - title: 日本邮局物流追踪
+      url: http://www.post.japanpost.jp/index.html
+      description: 日本邮政查询
+    - title: 速卖通商家后台
+      url: https://login.aliexpress.com/user/seller/login
+      description: 跨境销售平台
+    - title: Qoo10商家后台
+      url: https://qsm.qoo10.jp/
+      description: 日本电商平台
+    - title: 京东商家后台
+      url: https://passport.shop.jd.com/
+      description: 京东卖家后台
+    - title: 拼多多商家后台
+      url: https://mms.pinduoduo.com/
+      description: 拼多多卖家后台
+    - title: 小红书商家后台
+      url: https://ark.xiaohongshu.com
+      description: 小红书商家平台
+    - title: 小红书蒲公英后台
+      url: https://pgy.xiaohongshu.com/
+      description: 达人合作平台
+    - title: 日本商标网站
+      url: https://www.j-platpat.inpit.go.jp/
+      description: 商标查询
+    - title: JAN Code码校验位生成
+      url: http://www.dsri.jp/jan/check_digit.html
+      description: JAN条码校验
+    - title: 马帮ERP
+      url: https://www.mabangerp.com/
+      description: ERP系统
