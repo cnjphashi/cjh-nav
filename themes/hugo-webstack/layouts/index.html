@@ -385,15 +385,32 @@
             }        
         });
         <!-- 黑暗和明亮模式 END -->
-        <!-- 利用iowen API 获取网址icon START --> 
-        $(".geticon").each(function(){
-            var url = $(this).find('a').attr('href');
-            var apiUrl="https://api.iowen.cn/favicon/"+url.replace(/^https?:\/\//, '').replace(/\/.*$/, '')+".png"
-            if ($(this).find('img').attr('data-src').length === 0) {
-                $(this).find('img').attr('data-src', apiUrl);
-            }
-        })
-        <!-- END 利用iowen API 获取网址icon START-->
+        // 利用 Cloudflare Worker 获取网址 icon START
+$(".geticon").each(function () {
+    var $img = $(this).find("img");
+    var url = $(this).find("a").attr("href");
+
+    if (!url || !$img.length) {
+        return;
+    }
+
+    try {
+        var domain = new URL(url).hostname;
+
+        var apiUrl =
+            "https://favicon.nav.cnjphashi.com/?domain=" +
+            encodeURIComponent(domain) +
+            "&sz=64";
+
+        if (!$img.attr("data-src")) {
+            $img.attr("data-src", apiUrl);
+        }
+
+    } catch (e) {
+        console.warn("获取网站图标失败:", url, e);
+    }
+});
+// 利用 Cloudflare Worker 获取网址 icon END
         
         $(document).on('click', '.has-sub', function(){
             var _this = $(this)
