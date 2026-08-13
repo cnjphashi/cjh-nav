@@ -44,241 +44,278 @@
 
   - title: 流通王
     url: http://www.scorejp.com.cn/
-    description: 日本物流查询
+    description: 日本国内物流查询
 
   - title: HS CODE查询
     url: https://www.hsbianma.com/
     description: HS编码查询
 
 
-- taxonomy: 公司内部系统
+- taxonomy: 公司网站与内部系统
   icon: fa-building
   list:
 
-  - term: 公司网站
+  - term: 网站
     links:
+
     - title: 中日桥官网
       url: https://cnjphashi.com
+
     - title: Hatcatoy官网
       url: https://hatcatoy.com
+
     - title: ZAKAKING官网
       url: https://www.zakaking.com
+
     - title: Naniwacc官网
       url: https://naniwacc.com
+
     - title: Coulomb官网
       url: https://coulombag.com
+
     - title: 聚成官网
       url: https://best-cheng.com
 
-  - term: 文件与存储
+  - term: 内部系统
     links:
+
     - title: 中日桥网盘
       url: https://drive.cnjphashi.com
+
     - title: 中日桥NAS
       url: https://10-168-1-225.cnjphashi.direct.quickconnect.cn:5019/
+
     - title: 腾讯文档
       url: https://docs.qq.com/
+
     - title: 坚果云
       url: https://www.jianguoyun.com/
 
-  - term: 公司业务系统
-    links:
     - title: SCM系统
       url: https://scm.zakaking.com
+
     - title: ERP系统
       url: http://cjh-ft:1025/cjhsys/
-    - title: 三部网站后台
+
+    - title: 中日桥网站后台
       url: https://cnjphashi.com/wp-login.php
 
 
-- taxonomy: 采购与商品调查
-  icon: fa-shopping-cart
-  list:
-
-  - term: 中国采购平台
-    links:
-    - title: 1688
-      url: https://www.1688.com/
-    - title: 义乌购
-      url: https://www.yiwugo.com/
-    - title: 义乌小商品城
-      url: https://www.chinagoods.com/
-    - title: 广交会
-      url: https://www.cantonfair.org.cn/
-
-  - term: 日本商品调查
-    links:
-    - title: スーパーデリバリー
-      url: https://www.superdelivery.com/
-    - title: NETSEA
-      url: https://www.netsea.jp/
-    - title: zakka.net
-      url: https://www.zakka.net/
-
-  - term: 国际商品调查
-    links:
-    - title: 日本1688
-      url: https://japanese.alibaba.com/
-    - title: SHEIN日本
-      url: https://jp.shein.com/
-
-  - term: 商品市场与趋势调查
-    links:
-    - title: Google Trends
-      url: https://trends.google.com/home
-    - title: Amazon日本畅销榜
-      url: https://www.amazon.co.jp/gp/bestsellers/
-    - title: 日本ランドセル排名
-      url: http://www.randoseru-report.com/
-
-
-- taxonomy: 物流与货物追踪
-  icon: fa-truck
-  list:
-
-  - term: 国际物流
-    links:
-    - title: DHL
-      url: https://www.5idhl.com/#/
-    - title: DHL国际物流
-      url: https://eship.cndhl.com/
-    - title: FedEx
-      url: https://www.fedex.com/
-    - title: OCS
-      url: https://www.ocschina.com/
-    - title: 17TRACK
-      url: http://www.17track.net/ja
-
-  - term: 日本物流
-    links:
-    - title: 流通王
-      url: http://www.scorejp.com.cn/
-    - title: 日本佐川急便
-      url: http://www.sagawa-exp.co.jp/
-    - title: 日本黑猫宅急便
-      url: https://toi.kuronekoyamato.co.jp/cgi-bin/tneko
-    - title: 日本邮便
-      url: http://www.post.japanpost.jp/
-
-  - term: 船运查询
-    links:
-    - title: 船舶定位
-      url: https://www.weiyun001.com/
-    - title: 日本船运查询
-      url: https://www.toyoshingo.com/
-
-
-- taxonomy: 电商与销售平台
-  icon: fa-store
-  list:
-
-  - term: Amazon日本
-    links:
-    - title: 日本亚马逊卖家后台
-      url: https://sellercentral.amazon.co.jp/
-    - title: Amazon进仓预约
-      url: https://carriercentral.amazon.co.jp/
-    - title: Amazon品牌注册
-      url: https://brandregistry.amazon.co.jp/
-    - title: Amazon日本畅销榜
-      url: https://www.amazon.co.jp/gp/bestsellers/
-
-  - term: 日本电商平台
-    links:
-    - title: Qoo10商家后台
-      url: https://qsm.qoo10.jp/
-
-  - term: 中国电商平台
-    links:
-    - title: 京东商家后台
-      url: https://passport.shop.jd.com/
-    - title: 拼多多商家后台
-      url: https://mms.pinduoduo.com/
-    - title: 小红书商家后台
-      url: https://ark.xiaohongshu.com
-
-  - term: 跨境电商
-    links:
-    - title: 速卖通商家后台
-      url: https://login.aliexpress.com/
-
-
-- taxonomy: 贸易・通关・编码
-  icon: fa-file-text
-  list:
-
-  - term: HS CODE与商品编码
-    links:
-    - title: HS CODE查询
-      url: https://www.hsbianma.com/
-
-  - term: 中国出口业务
-    links:
-    - title: 中国国际贸易单一窗口
-      url: https://www.singlewindow.cn/
-
-  - term: 日本进口与关税
-    links:
-    - title: 日本关税查询
-      url: https://www.customs.go.jp/
-
-  - term: 商品条码
-    links:
-    - title: JAN Code校验位生成
-      url: http://www.dsri.jp/jan/check_digit.html
-
-
-- taxonomy: 企业・市场调查
+- taxonomy: 市场调查
   icon: fa-search
   list:
 
-  - term: 中国企业查询
+  - term: 商品调查
     links:
-    - title: 企查查
-      url: https://www.qcc.com/
-    - title: 爱企查
-      url: https://aiqicha.baidu.com/
 
-  - term: 日本企业查询
-    links:
-    - title: 日本公司登记信息查询
-      url: https://www.houjin-bangou.nta.go.jp/
+    - title: スーパーデリバリー
+      url: https://www.superdelivery.com/
 
-  - term: 商标与专利
-    links:
-    - title: 日本商标・专利查询
-      url: https://www.j-platpat.inpit.go.jp/
+    - title: NETSEA
+      url: https://www.netsea.jp/
 
-  - term: 市场趋势
-    links:
+    - title: zakka.net
+      url: https://www.zakka.net/
+
+    - title: 日本1688
+      url: https://japanese.alibaba.com/
+
+    - title: SHEIN日本
+      url: https://jp.shein.com/
+
     - title: Google Trends
       url: https://trends.google.com/home
 
+    - title: Amazon日本畅销榜
+      url: https://www.amazon.co.jp/gp/bestsellers/
 
-- taxonomy: 设计・印刷・3D
+    - title: 日本ランドセル排名
+      url: http://www.randoseru-report.com/
+
+  - term: 合规调查
+    links:
+
+    - title: HS CODE查询
+      url: https://www.hsbianma.com/
+
+    - title: 日本关税查询
+      url: https://www.customs.go.jp/
+
+    - title: 日本商标・专利查询
+      url: https://www.j-platpat.inpit.go.jp/
+
+    - title: JAN Code校验位生成
+      url: http://www.dsri.jp/jan/check_digit.html
+
+    - title: SGS询价
+      url: https://member.sgsonline.com.cn/
+
+
+- taxonomy: 采购
+  icon: fa-shopping-cart
+  list:
+
+  - term: 常用采购平台
+    links:
+
+    - title: 1688
+      url: https://www.1688.com/
+
+    - title: 义乌购
+      url: https://www.yiwugo.com/
+
+    - title: 义乌小商品城
+      url: https://www.chinagoods.com/
+
+    - title: 广交会
+      url: https://www.cantonfair.org.cn/
+
+  - term: 查询供应商信息
+    links:
+
+    - title: 企查查
+      url: https://www.qcc.com/
+
+    - title: 爱企查
+      url: https://aiqicha.baidu.com/
+
+
+- taxonomy: 打样、设计、提案
   icon: fa-paint-brush
   list:
 
-  - term: 印刷与纸张
+  - term: 印刷与设计
     links:
+
     - title: 日本印刷术语查询
       url: https://kamisommelier.jp/
+
     - title: 日本印刷产业术语
       url: https://www.jfpi.or.jp/
+
     - title: PANTONE色号查询
       url: https://www.qtccolor.com/
 
   - term: 3D模型与创作
     links:
+
     - title: MakerWorld
       url: https://makerworld.com.cn/
 
 
-- taxonomy: 检测与认证
-  icon: fa-check-circle
+- taxonomy: 销售
+  icon: fa-store
   list:
 
-  - term: SGS
+  - term: 国内销售平台
     links:
-    - title: SGS询价
-      url: https://member.sgsonline.com.cn/
+
+    - title: 京东商家后台
+      url: https://passport.shop.jd.com/
+
+    - title: 拼多多商家后台
+      url: https://mms.pinduoduo.com/
+
+    - title: 小红书商家后台
+      url: https://ark.xiaohongshu.com
+
+  - term: 跨境销售平台
+    links:
+
+    - title: 日本亚马逊卖家后台
+      url: https://sellercentral.amazon.co.jp/
+
+    - title: Amazon进仓预约
+      url: https://carriercentral.amazon.co.jp/
+
+    - title: Amazon品牌注册
+      url: https://brandregistry.amazon.co.jp/
+
+    - title: Qoo10商家后台
+      url: https://qsm.qoo10.jp/
+
+    - title: 速卖通商家后台
+      url: https://login.aliexpress.com/
+
+  - term: 查询客户信息
+    links:
+
+    - title: 日本公司登记信息查询
+      url: https://www.houjin-bangou.nta.go.jp/
+
+
+- taxonomy: 物流
+  icon: fa-truck
+  list:
+
+  - term: 国内物流信息查询
+    links:
+
+    - title: 顺丰速运
+      url: https://www.sf-express.com/
+
+    - title: 中通快递
+      url: https://www.zto.com/
+
+    - title: 圆通速递
+      url: https://www.yto.net.cn/
+
+    - title: 申通快递
+      url: https://www.sto.cn/
+
+    - title: 韵达速递
+      url: https://www.yundaex.com/
+
+    - title: 极兔速递
+      url: https://www.jtexpress.com.cn/
+
+    - title: 中国邮政EMS
+      url: https://www.ems.com.cn/
+
+  - term: 国际物流查询
+    links:
+
+    - title: 流通王
+      url: http://www.scorejp.com.cn/
+
+    - title: 日本佐川急便
+      url: http://www.sagawa-exp.co.jp/
+
+    - title: 日本黑猫宅急便
+      url: https://toi.kuronekoyamato.co.jp/cgi-bin/tneko
+
+    - title: 日本邮便
+      url: http://www.post.japanpost.jp/
+
+    - title: DHL
+      url: https://www.5idhl.com/#/
+
+    - title: DHL国际物流
+      url: https://eship.cndhl.com/
+
+    - title: FedEx
+      url: https://www.fedex.com/
+
+    - title: OCS
+      url: https://www.ocschina.com/
+
+    - title: 17TRACK
+      url: http://www.17track.net/ja
+
+    - title: 船舶定位
+      url: https://www.weiyun001.com/
+
+    - title: 日本船运查询
+      url: https://www.toyoshingo.com/
+
+  - term: 报关与清关
+    links:
+
+    - title: 中国国际贸易单一窗口
+      url: https://www.singlewindow.cn/
+
+    - title: 日本关税查询
+      url: https://www.customs.go.jp/
+
+    - title: HS CODE查询
+      url: https://www.hsbianma.com/
