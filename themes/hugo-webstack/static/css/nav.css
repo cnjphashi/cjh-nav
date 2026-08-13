@@ -4,7 +4,7 @@
     border-radius: 3px !important;
 }
 .search-type li label {
-    padding: 8px 11px !important;
+    padding: 5px 11px !important;
 }
 .s-type {top: 50% !important; transform: translateY(-50%) !important;display: flex;align-items: center;justify-content: center;}
 .s-type > span {display: flex !important;align-items: center !important;justify-content: center !important;}
