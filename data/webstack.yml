@@ -339,4 +339,8 @@
     url: https://winmerge.org/downloads/?lang=zh_cn
     description: 快速可视化比较任意两个文件（例如合同、报价单）之间的细微差异
 
+  - title: PowerToys
+    url: https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=zh-CN&gl=US
+    description: 微软官方Windows效率工具集，窗口管理、OCR、批量重命名、图片处理等。
+
 
