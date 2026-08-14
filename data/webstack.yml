@@ -335,4 +335,8 @@
     url: https://tools.pdf24.org/zh/creator
     description: 免费的PDF转Word、编辑、合并、压缩等工具
 
+  - title: WinMerge
+    url: https://winmerge.org/downloads/?lang=zh_cn
+    description: 快速可视化比较任意两个文件（例如合同、报价单）之间的细微差异
+
 
