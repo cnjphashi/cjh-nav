@@ -164,6 +164,15 @@
   icon: fa-paint-brush
   list:
 
+  - term: 无版权图片
+    links:
+
+    - title: pexels
+      url: https://www.pexels.com/zh-cn/
+
+    - title: pixabay
+      url: https://pixabay.com/zh/
+
   - term: 印刷与设计
     links:
 
