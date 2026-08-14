@@ -304,10 +304,26 @@
 
   - title: Localsend
     url: https://localsend.org/zh-CN/download
-    description: 局域网文件传输神器
+    description: 局域网满速文件传输神器
 
   - title: Potplayer
     url: https://potplayer.tv/
-    description: 遇到播放不了的视频就下它
+    description: 遇到播放不了的视频就下载它
+
+  - title: DeepL
+    url: https://www.deepl.com/zh/windows-app
+    description: Ctrl+C+C即时翻译被选中的文本
+
+  - title: Everything
+    url: https://www.voidtools.com/zh-cn/downloads/
+    description: 全局搜索电脑上的文件
+
+  - title: ytdlp
+    url: https://github.com/ErrorFlynn/ytdlp-interface/releases
+    description: 下载知名网站上的视频就选它
+
+  - title: 7-Zip
+    url: https://potplayer.tv/
+    description: 轻便小巧高效且无广告的解压缩工具
 
 
